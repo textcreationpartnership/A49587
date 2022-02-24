@@ -1,0 +1,460 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse of paying of tithes by T.L. ... ; together with an appendix ...</title>
+            <author>Larkham, Thomas, 1602-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49587</idno>
+            <idno type="STC">Wing L441A</idno>
+            <idno type="STC">ESTC R41027</idno>
+            <idno type="EEBO-CITATION">19577105</idno>
+            <idno type="OCLC">ocm 19577105</idno>
+            <idno type="VID">109141</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49587)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109141)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1691:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse of paying of tithes by T.L. ... ; together with an appendix ...</title>
+                  <author>Larkham, Thomas, 1602-1669.</author>
+               </titleStmt>
+               <extent>[4], 44, [8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.R. &amp; E.M. and are to be sold by Francis Eglesfield ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Thomas Larkham.</note>
+                  <note>Advertisement: p. [1]-[8] at end.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Finance.</term>
+               <term>Tithes --  Great Britain --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109141:1"/>
+            <pb facs="tcp:109141:1"/>
+            <p>A Diſcourſe OF PAYING OF TITHES.</p>
+            <p>
+               <hi>By</hi> T.L. <hi>M.A.</hi> Paſtour of the Church of Chriſt at <hi>Taviſtock</hi> in <hi>Devon.</hi>
+            </p>
+            <p>Together with an APPENDIX, by way of Apology for the ſeaſonableneſs thereof.</p>
+            <p>LONDON. Printed by <hi>T.R.</hi> &amp; <hi>E. M.</hi> and are to be ſold by <hi>Francis Egleſfield</hi> at the ſigne of the <hi>Marygold</hi> in <hi>Pauls</hi> Church-yard. 1656.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:109141:2"/>
+            <pb facs="tcp:109141:2"/>
+            <head>TO HIS Highneſs THE Lord PROTECTOUR OF The <hi>Common-wealth</hi> of ENG<g ref="char:EOLhyphen"/>LAND, SCOTLAND, and IRELAND.</head>
+            <opener>
+               <salute>May it pleaſe your HIGHNESSE,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HAT</hi> Gods Holy Morall Law may be duly ob<g ref="char:EOLhyphen"/>ſerved, Chriſtian Liberty not encroached upon, the inward Man commanded by Trueth, and Toleration tolerable be tolerated, is the deſigne of this ſhort enſuing diſ<g ref="char:EOLhyphen"/>courſe. It had its conception many
+<pb facs="tcp:109141:3"/>Moneths ago, and was intended for the late Supream Authority of this Com<g ref="char:EOLhyphen"/>mon-wealth of <hi>England,</hi> but now it caſts it ſelf before your <hi>Highneſs,</hi> whom God hath raiſed up, and into whoſe hands, power, and opportunities are put to bring great deſignes into action. This is your day to honour him eminently, by whom Kings Reign and Princes decree judgement. The brood of Travellours returned Exlies muſt be ſerved too for Chriſt's ſake, who is their Lord and yours. That it is a piece of your work to take away Snares that have been ſpread in the way of Saints, and yet ly unremoved, I humbly ſuppoſe you know much better than I can tell. Theſe Lines rightly underſtood, refin'd, and obſerved, may be a Cloud like a Mans hand for further fruitful Rain, that your day may not ſlip to you, or ſlide too faſt for us, is the prayer of your <hi>Highneſs</hi> humble ſervant,</p>
+            <closer>
+               <signed>THOMAS LARKHAM.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div n="1" type="chapter">
+               <pb n="1" facs="tcp:109141:3"/>
+               <head>CHAP. I. Containeth the Preface or Intro<g ref="char:EOLhyphen"/>duction.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>T is and hath been often in my thoughts, to com<g ref="char:EOLhyphen"/>municate mine Appre<g ref="char:EOLhyphen"/>henſions touching that Ball of Contention, and rock of offence, and ſnare to tender Conſciences, the payment of Tithes, as now they are payable and re<g ref="char:EOLhyphen"/>quired by Law of the Inhabitants of Towns and Villages within this Common<g ref="char:EOLhyphen"/>wealth. This is looked upon by ſome as a very great burden to the people of theſe Nations; and not only ſo, but as a great Let to the People of God, whereby they are kept from, or diſabled in the doing of their
+<pb n="2" facs="tcp:109141:4"/>dutie to them that teach them in the Word, and in doing good to all, eſpecially to the Houſhold of Faith, as Stewards of what the Lord hath entruſted them with, eſpecially (as ſome hold) of the Tenth of their Eſtate judged to be the Lords portion by a moral Law (though not primarily, as neither is the Law of a ſeventh dayes Sabbath.)</p>
+               <p>Now (ſay many) when men are enforced to pay Tithes to Nobles, Gentlemen, Col<g ref="char:EOLhyphen"/>ledges, or ſuch Miniſters as are thruſt upon them by corrupt Patrons or otherwiſe, and whom they cannot look upon as their Pa<g ref="char:EOLhyphen"/>ſtours ſent of God and ſet over them regu<g ref="char:EOLhyphen"/>larly, hereby they are put out of their way, and the Lords portion goeth not the right way, but is diverted out of its proper chanel in the judgment of ſuch as hold Tithes due by divine Right, which are not inconſide<g ref="char:EOLhyphen"/>rable either for number, judgment, and lear<g ref="char:EOLhyphen"/>ning or piety.</p>
+               <p>And (ſay others otherwiſe judgemented) it is a burden which we hoped the ſhedding of ſo much blood and expending ſuch ſummes of money, would long before now have freed
+<pb n="3" facs="tcp:109141:4"/>us from, but we are as we were (alas) an old penny for a new, and ſcarce that. Now I ſhall humbly propoſe a few conſiderations in or<g ref="char:EOLhyphen"/>der to the removal of theſe inconveniences, and for direction or advice to the giving of content to all conſiderable Complainants: (being for my part one of them that do judge the Tenth part of Eſtate, and Se<g ref="char:EOLhyphen"/>venth of time to be holy to the Lord) And that thoſe confuſions which Antichriſt his followers have brought upon the face of the Chriſtian World may be taken away, and Goſpel-worſhip be ordered in moral duties thereunto belonging, according to the will and mind of God and our Father, whoſe rules we ought to walk by in all obſervance both to him, and our neighbours. And if this be a trueth (which I know no learned Man to doubt of) that the ſubject matter of Church-admonitions and Proceedings is <hi>Bonum &amp; malum, rectum &amp; iniquum, pium &amp; impium,</hi> that is to ſay, Good to be obſerved, and evil to be avoided; why ſhould not Chriſts own way be walked in for the effecting of theſe things in his Church, and the particular Con<g ref="char:EOLhyphen"/>gregations
+<pb n="4" facs="tcp:109141:5"/>thereof throughout the Com<g ref="char:EOLhyphen"/>mon-wealth. And if it be a ſin even for Ma<g ref="char:EOLhyphen"/>giſtrates and Sword-men <hi>
+                     <g ref="char:V">Ʋ</g>zzah</hi>-like to cart the Ark of God, and pretend to keep it from falling without call and rule; how much more to protect ſacriledge, and countenance Antichriſtian diſorders, or at leaſt (as others that are not of my mindhold,) to continue to force the People of God to pay Tithes unto them, that may as well by a civil Law re<g ref="char:EOLhyphen"/>quire Bullocks, Goats, and Lambes, &amp;c. for ſacrifices, or inſtead thereof, or any ſuch thing of Religious off-ſpring from Chri<g ref="char:EOLhyphen"/>ſtians, Jewes or Heathens. We find in the ſtories of the Church, that this wicked pra<g ref="char:EOLhyphen"/>ctice of diverting Tithes out of their due courſe, was firſt practiſed by Romane Popes: when they were come to that incorrigible pride and liberty to do all things as they pleaſed. Then began they by all oppreſſing power, to grant, firſt exemptions, and after<g ref="char:EOLhyphen"/>ward impropriations, transferring Tithes from one to another. And ſo in proceſſe of time, when althings were ready merchandiſe for them that brought moſt, no marvel that
+<pb n="5" facs="tcp:109141:5"/>the portion of the Lord which was to be payd by divine Rule to Church-officers in their particular Congregations, and diſpoſed of by them in relation to the particular charges, were taken from them (as now they are kept from them) and either beſtowed up<g ref="char:EOLhyphen"/>on the Popes kinſmen the lazy Monkes, or elſe ſome ſuch as could make beſt friends with any of the Popes creatures were exem<g ref="char:EOLhyphen"/>pted from paying any thing at all. And upon the diſſolution of thoſe irreligious houſes, you cannot be ignorant how many filled their Mawes, and rode up to the very Horſe bridles into thoſe ſpoils, when thoſe dens of theeves were routed.</p>
+               <p>Now becauſe the Lords portion ſeized upon (as I ſaid before) lay among the devoted things, all was taken together and made good prize. And becauſe 'twas ſo, it muſt be ſo, or elſe (ſay our wiſe Men) Children of theſe Anceſtours &amp; Purchaſers of theſe Tithes will be wronged, if they may not enjoy that which they or their Fathers purchaſed. But in other things they have a proverb <hi>Caveat Emptor,</hi> and a man may ſeize on his ſtollen
+<pb n="6" facs="tcp:109141:6"/>Horſe whereſoever he find it, and ſometimes an honeſt mao may be in danger of his life for buying it, though meaning no harm. Why then ſhould not the Lords portion bereſcued, and reſtored to him? And yet other things I ſhall briefly lay down in order to the making this good. That Tithes, as now payd are ſinfully exacted and received and that the payment of them this way is injurious, bur<g ref="char:EOLhyphen"/>thenſome ſacreligious, or at leaſt an hin<g ref="char:EOLhyphen"/>derance to the performance of Chriſtian du<g ref="char:EOLhyphen"/>tie according to Gods Law.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II. The main argument is taken from referring the duty of paying of Tithes unto its proper Law, and here is a ſhort diſcourſe of Lawes.</head>
+               <p>COncerning Lawes, I will for brevities ſake referre them to three Heads: Di<g ref="char:EOLhyphen"/>vine, Civil, Canon. By Canon Lawes I mean the decrees of Councels, which were of great force when the myſterie of iniquitie was grown ripe. By Civil Lawes, I mean Princes Conſtitutions and Acts of Parlia<g ref="char:EOLhyphen"/>ment. Now that Tithes did not receive
+<pb n="7" facs="tcp:109141:6"/>their original from either of theſe Lawes were very eaſy to make good. For we find in Hiſtories, that Tithes were more duly, more orderly, and more ſincerely payd, be<g ref="char:EOLhyphen"/>fore the Canon Law was invented, then ever they were ſince; and that they were not anciently due by the Civil Law and Princes conſtitutions till now of late years, is more then evident. And we know how generally Tithes have been held due through<g ref="char:EOLhyphen"/>out all the Chriſtian World: And we know no one Prince hath power over all Chri<g ref="char:EOLhyphen"/>ſtian Lands. And therefore it remaines that if Tithes be payable at all in Goſpel times, it muſt be by the Law of God, and from it their due muſt take it's riſe.</p>
+               <p>Now the Law of God is either Moral, Ju<g ref="char:EOLhyphen"/>dicial, or Ceremonial: theſe things are known to every abcedarian in Divinitie. The work next will be to place the paiment of Tithes in its proper form, that we may by help of its proper ſcituation ſee the dutie of Princes and Parliaments to help the Lord againſt the Mighty, and to cauſe uſurping Ceſars to let alone that which belongeth to God, and
+<pb n="8" facs="tcp:109141:7"/>to take that which is their own. Then will not men be ſo earneſt to keep up Tithes as they are now paiable, nor make ſuch hideous cryes as they do; ſet a work by ſuch of <hi>Elies</hi> Houſe, as know the Lord hath not owned them, and therfore deſire not maintenance in his way.</p>
+               <p>According to thoſe threeſorts of Lawes before-mentioned there are three ſeveral opi<g ref="char:EOLhyphen"/>nions among men that are called Chriſtians. The firſt that I wil ſpeak of as being the new<g ref="char:EOLhyphen"/>eſt and weakeſt, is that Tithes became payble by the Ceremonial Law. Now what is Ce<g ref="char:EOLhyphen"/>remonial is either ſo Levitically (which all ceremonies are not, for there was ſacrificing and other ceremonies in uſe before the <hi>Levi<g ref="char:EOLhyphen"/>tical</hi> Order) or elſe thoſe ceremonies that were ſo in uſe before. Now if Tithes be Levitically ceremonial, then before the Le<g ref="char:EOLhyphen"/>vites they had no being or uſe at all. But if any ſhall ſay they were ceremonial before the Law, as ſacrifices were in uſe and ceremo<g ref="char:EOLhyphen"/>nial before they were Levitical, <hi>viz.</hi> before thoſe particular Ordinances for the manner of ſacrificing were commanded, and there<g ref="char:EOLhyphen"/>fore (ſo) ceremonial, I anſwer this is very
+<pb n="9" facs="tcp:109141:7"/>plauſible and probable, <hi>viz.</hi> that Tithes were ceremonies before the Law as well as ſacri<g ref="char:EOLhyphen"/>fices, and that certain particular Ordinances of paying them to the Levites, or the aſſig<g ref="char:EOLhyphen"/>nation of them to that worſhip of God, which was then in uſe may be called a Levi<g ref="char:EOLhyphen"/>tical conſtitution. But to make this opi<g ref="char:EOLhyphen"/>nion good ungainſayably, and to make the paying of Tithes, and offering of ſacrifices to agree compleately: we muſt enquire into two things, firſt the Propriety, ſecondly the end of both Sacrifices and Tithes. For the firſt, the propriety of Sacrifices is not the Lords untill they are once offered to him, and till that time he hath the right and propriety in thoſe things, that is about to ſacrifice them. But in Tithes man hath no right at all, be<g ref="char:EOLhyphen"/>cauſe they are all the Lords. In Sacrificing man ſanctifieth of his own to God, which before offering is his own, and if he ſhould not offer, it remaineth his own ſtill, but pay<g ref="char:EOLhyphen"/>ing of Tithes is not a giving but a rendring to God that which was his before: not to ſacri<g ref="char:EOLhyphen"/>fice is ungodlineſs, not to pay Tithes is in<g ref="char:EOLhyphen"/>juſtice alſo. Therefore foraſmuch as a cere<g ref="char:EOLhyphen"/>mony
+<pb n="10" facs="tcp:109141:8"/>ſtandeth in giving to God what is a mans own not what is Gods before, paying of Tithes cannot be a ceremony. Secondly if we look to the end of a Sacrifice, it did ſigni<g ref="char:EOLhyphen"/>fie and type out the great Sacrifice, upon the Croſſe, it was a carnal type of that holy Sa<g ref="char:EOLhyphen"/>crifice, and was to have an end when that ſhould be exhibited (and indeed the end of all ceremonies was to ſignifie ſomething.) But who can ſhew ſuch an end of paying Tithes or indeed any other end then Mainte<g ref="char:EOLhyphen"/>nance of the Miniſtery before the Law, and under the Law with ſome particular additio<g ref="char:EOLhyphen"/>nal conſtitutions, and claimed, and challeng<g ref="char:EOLhyphen"/>ed in the times immediately ſucceeding the Apoſtles, and by the conſent of all, or the moſt Chriſtians yielded to. Tithes were the Lords before he aſſigned them to <hi>Levi.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> All things are the Lords. Sol. In an<g ref="char:EOLhyphen"/>other ſenſe then Tithes are. All things are the Lords, as he created them, and as by his Pow<g ref="char:EOLhyphen"/>er he Rules over all, and as all owe him duty and homage. But Tithes are ſaid to be the Lords in reſpect of, and by immediate right, more then the other nine parts; as the Se<g ref="char:EOLhyphen"/>venth-day
+<pb n="11" facs="tcp:109141:8"/>is his more then the other ſix. We might argue alſo from the definition of a Le<g ref="char:EOLhyphen"/>vitical ceremonie, and make a long diſcourſe: but the end of my writing is not to prove Tithes due ſo much as to ſhew which is the way to help the<g ref="char:cmbAbbrStroke">̄</g> that fear the Lord to be able to give God his due, which muſt be by the power of a Law taking away Tithes, as now they are challenged, and payed rather to the Devil then to God, at the beſt to men upon a civil account, which is a ſnare to many a gra<g ref="char:EOLhyphen"/>cious ſoul.</p>
+               <p>There is a ſecond Opinion that Tithes were payd among the Jews by a judicial Law. It ſeemeth to me ſomwhat abſurd that Holy things and Worſhip ſhould be referred to judicials. And beſides they that have read Hiſtories know, that this is an invention of the Popiſh Schoolemen: and though it be el<g ref="char:EOLhyphen"/>der then the former Opinion, that Tithes were ceremonial; yet it is but at moſt four hundred years old, and was thought upon, to excuſe the Romiſh ſacriledge of appropria<g ref="char:EOLhyphen"/>ting parochial Tithes to the Popes kinſmen, Abbots and Monks, as D. <hi>John Reynolds</hi>
+                  <pb n="12" facs="tcp:109141:9"/>upon <hi>Obadiah</hi> notably ſheweth. For after the Pope had through corruption made Tithes away from their proper charges, to ſalve it, this errour was deviſed, and this is the ſecond Opinion.</p>
+               <p>The laſt and moſt likely to be true (for I determine not abſolutely) is, that Tithes are the Lords, and belong to ſuch as are employ<g ref="char:EOLhyphen"/>ed about his worſhip morally, and that to maintaine Miniſters is a part of the worſhip of God, for ſo <hi>Jacob</hi> did worſhip God, <hi>Gen.</hi> 28.22. and that ſuch as withdraw themſelves from this duty, by withdrawing maintenance from Mini<g ref="char:EOLhyphen"/>ſters, are robbers of God, <hi>Malachy</hi> 3.8. and mockers of God, <hi>Gal.</hi> 6.6, 7. And here I might make work, had I time and skill, and an inclination to make a Treatiſe of Tithes, to ſhew you the various Opinions that are now in <hi>England</hi> concerning Miniſters, and their maintenance. Some ſcarce allowing any uſe of a Miniſtry, or Ordinances, others granting reaſonable competent maintenance to be meet to be allowed; Others pleading hard for the continuance of Tithes as they are now
+<pb n="13" facs="tcp:109141:9"/>paiable by Law and cuſtome and to pariſh Miniſters and Lay-proprietaries as they are called, or to Colledges, and ſo forth.</p>
+               <p>From all theſe I muſt crave leave to diſ<g ref="char:EOLhyphen"/>ſent, from the firſt ſort, with deteſtation of their deluſions and irreligiouſneſs; from the ſecond and third with a proteſtation, that I will yield when mine enſuing reaſons are ſoundly anſwered, which keep me from clo<g ref="char:EOLhyphen"/>ſing with either opinion.</p>
+               <p>And here I ſhall as I am able, ſet down my preſent perſwaſion concerning paying of Tithes in theſe enſuing particulars.</p>
+               <p n="1">1. That the preſent payment of Tithes is a grievance to this Common-wealth, a pro<g ref="char:EOLhyphen"/>pagating of Antichriſtian ſacriledge in re<g ref="char:EOLhyphen"/>gard of impropriations, an oppreſſing of Saints and enſnaring of the conſciences of ſome that are unſatisfied touching their Pa<g ref="char:EOLhyphen"/>rochial Miniſters, and touching the thing it ſelf <hi>viz.</hi> of paying Tithes, an hinderance to orderly members of gathered Churches in many places from doing their duty towards ſuch as are their Officers orderly ſet over them, &amp; a ſtrengthening of Chriſts enemies prophane and ſcandalous and proud Mini<g ref="char:EOLhyphen"/>ſters
+<pb n="14" facs="tcp:109141:10"/>by giving or paying that to them which by God is appointed for ſuch as are ſent by him, and gifted and called according to rule.</p>
+               <p n="2">2. That (with humble ſubmiſſion) it is the Magiſtrates duty to take away al theſe burdens and ſhares that lie on the ſtates and conſciences of the godly of the Land, and make them unable to diſcharge their moral duty in their proper Churches which is to communicate unto them that teach them in all good things, as the Lord hath ordained: compare 1 <hi>Cor.</hi> 9.14. with <hi>Gal.</hi> 6.6.</p>
+               <p n="3">3. That Church members ought to be looked upon as a willing people, <hi>Pſal.</hi> 110.3. and to be ſeverely dealt withall for neg<g ref="char:EOLhyphen"/>lect of duty herein, as in other diſorderly walkings, and not otherwiſe.</p>
+               <p>I mentioned but now three ſorts, and re<g ref="char:EOLhyphen"/>jected the firſt as not worth the taking notice of, for why ſhould I look on them that deny the uſe of a Goſpel-Miniſtery and Church-Ordinances, ſeeing they are not ſo much as out-ſide Chriſtians? The ſecond ſort that would have Miniſters to have an honourable and comfortable maintenance allowed to them, and ſetled upon them by Parliamenta<g ref="char:EOLhyphen"/>ry
+<pb n="15" facs="tcp:109141:10"/>power, do ſeeme to many to be far more commendable then the latter ſort of which I am to ſpeak by and by; but for my part I cannot agree to this opinion, for theſe rea<g ref="char:EOLhyphen"/>ſons. 1. Becauſe it diſpenſeth with the per<g ref="char:EOLhyphen"/>formance of that which is (moſt probably at leaſt) a Moral duty, to wit paying of tythes where they are due. 2. Becauſe it ſuppoſeth that Chriſtians ought not to chuſe their owne Church-Officers, or there to joyne, and ſo to give tythes where they enjoy the benefit of labours from him or them to whom they pay their tythes. 3. It forceth out from peo<g ref="char:EOLhyphen"/>ple money whether they will or no, which is not ſuitable to a Goſpel ſpirit. 4. It is not ſo honourable a way as to ſhare and ſhare like in all ſorts of bleſſings that God ſhall be pleaſed to beſtow upon his people.</p>
+               <p>But for the laſt opinion and cry for the continuance of tythes as now they are pay<g ref="char:EOLhyphen"/>able; I much wonder that it hears ſo well from ſo many that ſeeme ſo wiſe and godly. Let me not ſeeme to be one of thoſe that would perſwade people to rob God, for that is farre from my thoughts. Nor am I againſt Univerſities, Schooles, Towne Divines, or
+<pb n="16" facs="tcp:109141:11"/>Teachers of the ignorant, but do wiſh that out of ſuch lands and eſtates as have beene forfeited to the Common-wealth, ſome might be imployed for theſe pious uſes, and alſo do humbly preſent this to be conſidered whether it may not be fit by rates and taxes, to enforce ſuch as walk not with well-order<g ref="char:EOLhyphen"/>ed Churches, to maintaine ſuch as are ſet by the Magiſtrate about any of the forementi<g ref="char:EOLhyphen"/>oned imployments: Methinks there ſhould be wiſdome enough in this preſent Govern<g ref="char:EOLhyphen"/>ment to finde out fit wayes and courſes for theſe things. But that which I aime at is, 1. That we may not (according to the Pro<g ref="char:EOLhyphen"/>verb) <hi>Rob</hi> Peter <hi>to pay</hi> Paul, as the Pope hath done by robbing Pariſh Churches to main<g ref="char:EOLhyphen"/>taine Abbies and Priories, &amp;c. which hath beene high ſacriledge, and the cauſe of much confuſion in the Chriſtian world. 2. That members of well-ordered gathered Church<g ref="char:EOLhyphen"/>es be not compelled to pay tythes (which be<g ref="char:EOLhyphen"/>long to their proper Miniſters) unto ſuch as either Patrons thruſt upon them, or the pro<g ref="char:EOLhyphen"/>phane multitude get in by an over-ruling Vote, or even unto ſuch as being godly Di<g ref="char:EOLhyphen"/>vines appointed by Authority to teach all
+<pb n="17" facs="tcp:109141:11"/>ſorts, ought to be cared for ſome other way. Laſtly, That only ſpiritual weapons be made uſe of to deale with Saints in matters that do purely belong to Religion, foraſmuch as all do not ſee this truth of the <hi>Jus Divinum</hi> of tythes, and will be offended if they ſhould be enforced by the Civil power to do that as a part of Divine worſhip, which they cannot ſee ſo to be.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. In this Chapter following Objections againſt this that hath beene ſaid, are anſwered.</head>
+               <p>BUt ſome may ſay that this taking away of tythes by a Law, will be very in<g ref="char:EOLhyphen"/>jurious to Miniſters, who will be expoſed to poverty and want, and what ju<g ref="char:EOLhyphen"/>ſtice can there be to inflict ſuch pu<g ref="char:EOLhyphen"/>niſhments upon thoſe who never deſerved it? To which I anſwer, that pious and true Miniſters of Gods ſending, have the Lord for their portion: and although they ſhould have nothing, yet they do poſſeſſe all things, 2 <hi>Cor.</hi> 6.10. and yet further, the Lord hath provided a liberal maintenance for them, as
+<pb n="18" facs="tcp:109141:12"/>I have ſhewed before; <hi>He hath ordained, that they that preach the Goſpel, ſhould live of the Goſpel;</hi> Chriſt hath declared, that <hi>the Labou<g ref="char:EOLhyphen"/>rer is worthy of his wages,</hi> Luke 10.7. And <hi>James</hi> the Apoſtle threatens them that keep back, &amp;c. <hi>chap.</hi> 5.4. and many arguments are uſed by <hi>Paul,</hi> 1 <hi>Cor.</hi> 9.7, &amp;c. to confirme this truth: but what's all this to continuing of tythes as they are now payable by Law, to Noblemen, Gentlemen, Colledges, Pa<g ref="char:EOLhyphen"/>riſh Prieſts, or any very unworthy men (who yet make the greateſt cry) by this meanes godly people are diſabled from, rather then holpen to do their duty to their godly Pa<g ref="char:EOLhyphen"/>ſtours and Teachers.</p>
+               <p>And further I anſwer, that Gods works are moſt beautiful when they are done in Gods way, and not according to the humor<g ref="char:EOLhyphen"/>ousſuperſtitious brabling, contentious, cuſto<g ref="char:EOLhyphen"/>mary wayes of men; If paying of tythes be a Moral duty (as it is ſuppoſed to be, at leaſt <hi>ſecundariò</hi>) and it be confirmed to be in force (at leaſt by conſequence or equiva<g ref="char:EOLhyphen"/>lence) in the writings of the New Teſta<g ref="char:EOLhyphen"/>ment: Why ſhould not Chriſtians be left in this duty to Scripture rules and Church wea<g ref="char:EOLhyphen"/>pons
+<pb n="19" facs="tcp:109141:12"/>
+                  <hi>(which are not carnal, but mighty, &amp;c.)</hi> as in other parts of worſhip? But it may be replied, that then people will break bonds, and caſt away Chriſts cords, and make little account of word or cenſure, &amp;c. Will they ſo? Why then let our Miniſters that are for promiſcuous adminiſtrations, ſee their errour in that opinion, and the ſinfulneſſe of their practice, and learne hereafter to ſeparate be<g ref="char:EOLhyphen"/>tweene the precious and the vile, and be<g ref="char:EOLhyphen"/>more faithful in their truſt, and then God will teach men to be more forward to pay them their due, and to allow them at leaſt competencies, if they be not convinced of this truth of the Divine Right of paying of tythes, which I wiſh were more ſearched into, as all truths ought to be without parti<g ref="char:EOLhyphen"/>ality.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label>
+                  <hi>Object.</hi> But it will be an act of injuſtice to take away from men that which is their pro<g ref="char:EOLhyphen"/>per right by the ancient Lawes of men, and which men have bought and paid for, and to give it to ſuch as have no right thereunto, whoſe it never was in any ones opinion (for indeed if tythes be not the Lords (as hath formerly beene ſhewed they are) they muſt
+<pb n="20" facs="tcp:109141:13"/>needs be theirs whom Law and poſſeſſion hath ſetled them upon) Now to take tythes from them that claim them, &amp; receive them as their right by Law (which determines propriety) without allowing a valuable con<g ref="char:EOLhyphen"/>ſideration, may ſeeme to be great iniquity.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>
+                  </label>
+                  <hi>Sol.</hi> To which I anſwer, that if to with<g ref="char:EOLhyphen"/>hold goods from the owner be a ſin, and for<g ref="char:EOLhyphen"/>bidden (as it is) in the Word of God: then it can be no ſinne in the Magiſtrate to judge the reſtoring of them to the rightful owner, and to turne the ſtreame into its pro<g ref="char:EOLhyphen"/>per channel. The caſe is the ſame touching tythes, whether you look upon them as due by the Moral Law to Miniſters, or as devo<g ref="char:EOLhyphen"/>ted in the elder times of the Goſpel-Church, though for my part I rather believe the for<g ref="char:EOLhyphen"/>mer; but we will not make more queſtions then need to divide the worſhippers of God: The ſcope of this Tract being to evince the duty of this preſent Power to take tythes away as now they are payable, and to put people into a capacity of doing their duty.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label>
+                  <hi>Object.</hi> But if the Lawes of men do not compel perſons to do their duty, they will be re<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iſſe and negligent, &amp;c.</p>
+               <pb n="21" facs="tcp:109141:13"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>
+                  </label>
+                  <hi>Sol.</hi> To which I anſwer, The Churches are to take cogniſance of miſcarriages in their proper and peculiar members, and they have not the power of the Keyes committed to them in vaine, it is not ſword work, either Military or Civil, to force peoples conſci<g ref="char:EOLhyphen"/>ences, but the work of the Spirits ſword, as hath formerly beene hinted.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>
+                  </label>
+                  <hi>Queſt.</hi> But what courſe then ſhall be ta<g ref="char:EOLhyphen"/>ken to provide for ſuch as are to inſtruct the world?</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label>
+                  <hi>Anſw.</hi> I anſwer, Churches may ſend out members, and the State (if they ſee it fit) may out of Gleeb-lands (ſo called) or other devoted Revenues, or by Taxes and Rates, allow ſuch or any others whom they ſhall judge meet for that work of preaching (whe<g ref="char:EOLhyphen"/>ther Church-officers or others) a conveni<g ref="char:EOLhyphen"/>ent ſtipend or pay; provided that Church<g ref="char:EOLhyphen"/>members be not robbed of that which they are carrying to the Lord as his portion by his owne appointment and ordinance. There may be many wayes thought upon to furniſh the Nation with able &amp; godly Teachers and Preachers, either fixed or itinerary w<hi rend="sup">ch</hi> may be authorized and maintained in this excel<g ref="char:EOLhyphen"/>lent
+<pb n="22" facs="tcp:109141:14"/>needful imployment, if they be not Church-officers; and if they be Church-officers, then care is taken for them already by the Ordinance of God as hath beene ſhewed; and indeed ſuch only are fit (un<g ref="char:EOLhyphen"/>leſſe in caſe of extreme neceſſity) for that work of publike preaching, and it will tend much to the making of peace among Profeſ<g ref="char:EOLhyphen"/>ſors of Religion, and it is very ſuitable to the ancient practice of the Church in the times after the Apoſtles. <hi>Athanaſius</hi> againſt the Meſ<g ref="char:EOLhyphen"/>ſalians, writeth, that there were diverſe Biſh<g ref="char:EOLhyphen"/>ops in ſome one Church, though not in that of <hi>Alexandria:</hi> And D. <hi>Sutliffe, de pont. lib.</hi> 1. <hi>chap.</hi> 5. ſaith, that <hi>Paul</hi> towne by towne appointed Presbyters and Biſhops. And <hi>Epi<g ref="char:EOLhyphen"/>phanius, cont. haereſ. lib.</hi> 2. <hi>haereſ.</hi> 27. And <hi>Eu<g ref="char:EOLhyphen"/>ſebius</hi> alſo, in his Eccleſiaſtical ſtory, reckons both <hi>Peter</hi> and <hi>Paul</hi> for Biſhops at <hi>Rome,</hi> both at one time. But I lay not much weight on theſe things. Only to ſhew you that if in one particular Church there be divers Mini<g ref="char:EOLhyphen"/>ſters, Biſhops, Presbyters, Elders (call them by which of theſe names you will) there may be a ſparing of ſome of them by courſe to inſtruct the world, and yet they may be
+<pb n="23" facs="tcp:109141:14"/>ready alſo to preſerve good order in the par<g ref="char:EOLhyphen"/>ticular Churches to whom they do belong, and to propagate the Ordination (for the perpetuity of Churches reſpectively) others to ſucceed them from time to time upon the election of the members of each Church of fit men ſo to be preſented to them to receive Ordination. And as <hi>Calvin, lib.</hi> 4. <hi>cap.</hi> 3. <hi>ſect.</hi> 8, 15. <hi>&amp; lib.</hi> 4. <hi>cap.</hi> 4. <hi>ſect.</hi> 1. affirmeth that from among the company of the Preſ<g ref="char:EOLhyphen"/>byters ſome were choſen to be Paſtours and Teachers, and the reſt were Overſeers and Cenſurers of the behaviours of the people: ſo why may not theſe by courſe, or ſome of them be choſen to preach and teach abroad, and receive their livelihood from the Chur<g ref="char:EOLhyphen"/>ches to whom they do belong, out of the tythes paid in to them by the members, and due unto them as Miniſters of thoſe Church<g ref="char:EOLhyphen"/>es? For I would not have you think that one man ſhould ſcrape hundreds together from the Church (as ſome Parſons ſo called now do) but that tythes ſhould be brought into Gods ſtore-houſe (as we read they were commanded to be, <hi>Mal.</hi> 3.1.) and ſo im<g ref="char:EOLhyphen"/>ployed to the ſervice of God in maintaining
+<pb n="24" facs="tcp:109141:15"/>Miniſters and Church-officers. But I am ſen<g ref="char:EOLhyphen"/>ſible of the running of my Pen. I therefore returne to the Anſwer to the Queſtion, <hi>viz.</hi> that men of ſmall reach may eaſily finde out wayes for inſtructing the world that do not ſubmit to any Church. Biſhops or Miniſters of old had the care of both Cities in which they lived, and Countries adjoyning, and be<g ref="char:EOLhyphen"/>ſides Church-members and others live pro<g ref="char:EOLhyphen"/>miſcuouſly together in moſt places, &amp; if they do not, care may be taken without ſo much ado for teaching and inſtructing all. Whole Cities or townes were not Churches in anci<g ref="char:EOLhyphen"/>ent time, neither ought they to be ſo now. We read of the Church of <hi>Smyrna,</hi> one of the ſeven Churches of <hi>Aſia,</hi> where <hi>Polycarpus</hi> was Paſtor, as ſoone as he was knowne to be a Chriſtian, was martyred by the rage of the multitude, and that (as <hi>Euſebius, Eccleſ. hiſt. lib.</hi> 4. <hi>cap.</hi> 15. recordeth) in the ſight of his owne people. The whole Cities there were not Churches; if they had been, how could the Church of <hi>Smyrna</hi> (writing to other Churches of the foreſaid martyrdome) enti<g ref="char:EOLhyphen"/>tle her ſelfe the Church of God which is at <hi>Smyrna?</hi> And yet I will not deny but there
+<pb n="25" facs="tcp:109141:15"/>might be ſome few here &amp; there in the town and hamlets thereabout, which belonged to the Churches in the greater towns and cities, but not as now where <hi>Taviſtock</hi> town is one thing, and <hi>Taviſtock</hi> pariſh another, becauſe it is ſuppoſed all that are within the pre<g ref="char:EOLhyphen"/>cincts of the pariſh, muſt needs be members of the Church there, and ſo hath it beene ac<g ref="char:EOLhyphen"/>counted formerly: but I muſt confeſſe (with<g ref="char:EOLhyphen"/>out fear) it is otherwiſe now. And why may it not be ſo in other places? I teach all in the publike meeting-houſe, but do only bap<g ref="char:EOLhyphen"/>tize the children of ſuch as are received and allowed members of the Church, and admit<g ref="char:EOLhyphen"/>ted to the Lords Table. And therefore (this queſtion notwithſtanding) I conceive, ta<g ref="char:EOLhyphen"/>king away of tythes, as now payable, will no way hinder the teaching of the world, but ra<g ref="char:EOLhyphen"/>ther (as I have ſhewed) further it, when Church-members ſhall be enabled to pay their tythes to their proper Churches.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="26" facs="tcp:109141:16"/>
+               <head>CHAP. IV. In this laſt Chapter you have the Concluſion with humble ſubmiſſion to the Churches of Chriſt, and to the Ministers of the Goſpel.</head>
+               <p>IT is not my purpoſe to be either peremp<g ref="char:EOLhyphen"/>tory or prolix. I will therefore ſumme up all. Whether they ſhall read theſe ſubitane<g ref="char:EOLhyphen"/>ous collections that hold that tythes are meer almes, which was the opinion of thoſe who were called the Waldenſes, which doubtleſs they were drawne to hold, upon the abuſe of tythes which they ſaw under the Church of <hi>Rome;</hi> which opinion afterward came to be received and taken up by <hi>John Wickliffe</hi> and his ſcholars, as you ſhall finde it to be the 18 Article amongſt thoſe againſt him condemn<g ref="char:EOLhyphen"/>ed in the Councel of <hi>Conſtance,</hi> and by <hi>John Hus</hi> a Bohemian, <hi>William Thorp</hi> an Engliſh<g ref="char:EOLhyphen"/>man, as appeareth by their examinations recorded by Mr. <hi>Fox,</hi> which hath alſo ſince beene taught by Anabaptiſts and Trinitaries, as may be ſeene in a book <hi>de antitheſibus ve<g ref="char:EOLhyphen"/>ri &amp; falſi Christi, Anno Domini</hi> 1568. <hi>Albae Juliae,</hi> and is followed by many now that would have Miniſters and Church-officers to
+<pb n="27" facs="tcp:109141:16"/>have right to nothing: Or whether they ſhall peruſe what I have written, that hold for a reaſonable and competent maintenance as due by Divine authority, which is the opini<g ref="char:EOLhyphen"/>on of them of the Church of <hi>Rome,</hi> as <hi>Bellar<g ref="char:EOLhyphen"/>mine</hi> declareth, <hi>Tom.</hi> 1 <hi>contr.</hi> 5. <hi>lib.</hi> 1. and is much received among our Writers of the Reformed Churches, <hi>cap.</hi> 25. Or whether they look upon theſe lines, that hold tythes due by the expreſſe Word of God, which is the judgement of the ancient Fathers from the beginning without contradiction, untill the Supreme Authority of the Pope took them away by meanes of impropriations: This is the concluſion, that as now they are payed by the Lawes and uſages of this Nation, they cannot be warranted to be well paid: which to prove, I provoke any Divine, Lawyer, or other to make good by ſound arguments out of the Word of God; and therefore that they ought to be taken away notwithſtand<g ref="char:EOLhyphen"/>ing all that hitherto I have heard to be al<g ref="char:EOLhyphen"/>ledged for the keeping of them on foot.</p>
+               <p>If tythes be due at all, it muſt be either by the Law of God or men, if of men, either by Princes conſtitutions, or by the Canon Law,
+<pb n="28" facs="tcp:109141:17"/>as I have ſaid in <hi>chap.</hi> 2. They were paid be<g ref="char:EOLhyphen"/>fore the Canon Law was invented, and better then ſince. And few plead Princes conſtitutio<g ref="char:cmbAbbrStroke">̄</g>s for their ancient payment in the Church, for they are held due in all the Chriſtian world over, which no one Prince ruleth. And for our late paying of them by Lawes and Ordi<g ref="char:EOLhyphen"/>nances; if the Common Law were well ap<g ref="char:EOLhyphen"/>plied, it would be found to be <hi>Malus uſus,</hi> and therfore <hi>abolendus.</hi> Wherefore ſeeing all that can be ſaid for continuance of tythes is decla<g ref="char:EOLhyphen"/>red to be of no force, ſeeing it is ſo injurious to the Churches, ſo oppreſſive to the people of the Land, ſo unwarrantable by the Word of God, the taking of them away ſo much de<g ref="char:EOLhyphen"/>fired by all that are the moſt conſiderable, &amp; that this is the way to have them paid regu<g ref="char:EOLhyphen"/>larly by ſuch as ſee that truth, &amp; are ſo judge<g ref="char:EOLhyphen"/>mented, or elſe to help them that are for a li<g ref="char:EOLhyphen"/>beral maintenance, for Miniſters to be able to do their duty according to their light: See<g ref="char:EOLhyphen"/>ing wayes may be eaſily found out for pre<g ref="char:EOLhyphen"/>venting all inconveniences that will come by their taking away, I conclude as <hi>Cato</hi> did his Orations, <hi>&amp; ſemper diruendam eſse Carthagi<g ref="char:EOLhyphen"/>nem.</hi> So, that by any means tythes as now pay<g ref="char:EOLhyphen"/>able
+<pb n="29" facs="tcp:109141:17"/>of all ſorts root and branch are by Au<g ref="char:EOLhyphen"/>thority to be taken away, in the judgement of <hi>T. L.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="appendix">
+            <head>An <hi>APPENDIX</hi> to the former diſcourſe by way of Apology for the ſeaſonableneſse of it, which ſome do or may ſuppoſe to be otherwiſe.</head>
+            <p>I Am very ſenſible <hi>(Chriſtian Reader)</hi> that I ſhall be looked upon with diverſe ſorts of eyes, and the moſt (I have cauſe to think) will caſt ill aſpects upon theſe few lines I have written touching the Moral duty of giving the tenth of our eſtates to God, the Lord Pa<g ref="char:EOLhyphen"/>ramount of all that we enjoy, as tenants at will, by, and under this (as it were) reſerved rent. But foraſmuch as I judge it to be, not only a duty as I am a Miniſter, to bear wit<g ref="char:EOLhyphen"/>neſſe to every truth in due time and place, but eſpecially to look after and eye Gods call to a work of the time when it ſhould be done more eminently and univerſally; and concei<g ref="char:EOLhyphen"/>ving this to be ſuch a one, I truſt I ſhall not be miſ-judged by all, nor the moſt of them that truly fear the Lord, if in any competent meaſure they ſtand looſe &amp; diſingaged from
+<pb n="30" facs="tcp:109141:18"/>private intereſts. For otherwiſe truly I ſhall be in danger of deep cenſure, &amp; ſuch of ſnares and ſlurs, to the drawing of them perhaps to oppoſe, yea, perſecute this work of mine, though intended for the relief of tender con<g ref="char:EOLhyphen"/>ſciences, and to make a beginning by break<g ref="char:EOLhyphen"/>ing of the ice in this thing, which taske God hath bin pleaſed all along my life (as I could ſhew in many particulars) to lay upon me.</p>
+            <p>Intereſts are diverſe, of honour ſome, ſome of profit, of friends otherſome, and eaſe and peaceable ſleeping in a whole skin (as we ſay) will be very techy at ſuch things as cauſe troubles and ſtirs, in places and countreys, as the effectual proſecuting of this truth by the hand of power in regard of the practick part is like enough to do. But intereſts are never ſo dangerous as when coloured over with pretences of piety, juſtice, Religion: As we read in <hi>Samuel</hi> of <hi>Saul's</hi> ſparing of <hi>Agag</hi> and the beſt of the flock in order (as he pretended) to the worſhip and ſervice of God, or in pity to that King: but this proved a cauſe of caſheerment to <hi>Saul</hi> by God, and another muſt take his place. The Gadarens upon an intereſt of profit ſent Chriſt away,
+<pb n="31" facs="tcp:109141:18"/>for they were loath to loſe their pigs. And <hi>Diotrephes</hi> upon the intereſt of honour and preeminence oppoſeth <hi>John</hi> and the work of Chriſt in his Churches. Intereſt of friend<g ref="char:EOLhyphen"/>ſhip was a great blur and ſcourge to good King <hi>Jehoſaphat,</hi> to wit, his joyning with <hi>A<g ref="char:EOLhyphen"/>hab</hi> and <hi>Ahaziah.</hi> I might tell you of the inter<g ref="char:EOLhyphen"/>eſt of relations, which was ſuch a cauſe of folly in King <hi>Solomon,</hi> who by his wives up<g ref="char:EOLhyphen"/>on this account was drawn to Idolatry. Alſo do we not ſee that many publike Preachers like the Phariſees, oppoſe Chriſt in many of his ſervants, becauſe they are not made (as it were) little Gods, as once they were; thus many upon the intereſt of honour miſcarry much, that promiſed better when time was. But yet truth at laſt will profligate all that ſtands in its way, and as it is written of the Governors of <hi>Judah, Zach.</hi> 12.6. <hi>Will be like a heath of fire among wood, and like a torch of fire in a ſheaf, and devoure</hi> all that ſtands againſt it <hi>on the right hand and on the left.</hi> But to the matter in hand. For the point of taking away tythes as now they are required, and many moleſted and grieved in ſpirit, ſome even precious ones, for being unwilling to pay
+<pb n="32" facs="tcp:109141:19"/>them as now made payable, and yet made by force ſo to do, I ſay for this I ſuppoſe I ſhall have many approvers of what I write among ſuch as pretend to the exacteſt Reformation. But the other branch of my aſſertion will not ſo eaſily go down with them Well, if it will not yet, I hope yet they will not be unchari<g ref="char:EOLhyphen"/>table of me that write what I judge to be true, and what I think more Saints will ſee to be a truth ſhortly. In the meane time however, I truſt that all that have the face of Religion, will be lo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th under a Goſpel diſpenſation ſhining as the Sun in its ſtrength, to be worſe and more backward to Miniſter to the Lord of their ſubſtance, then the Jewes were, who lived under ſuch dark Typical and umbrati<g ref="char:EOLhyphen"/>cal adminiſtrations. And in the meane time, I hold forth no other compulſories to be made uſe of, but ſuch as are to work upon conſcience, for theſe are the weapons Mini<g ref="char:EOLhyphen"/>ſters and Churches muſt make uſe of; judg<g ref="char:EOLhyphen"/>ing ſuch (for my part) as can finde in their heart to neglect expreſſe commands of Scri<g ref="char:EOLhyphen"/>pture concerning Miniſters maintenance, and diſtributing to the neceſſities of the Saints, (yea of any that are in want) to be unmeet
+<pb n="33" facs="tcp:109141:19"/>for communion in Church-Ordinances. And let ſuch as will not hear the Church, know that the Lord is coming. Doubtleſſe did Miniſters and Saints wield and look up<g ref="char:EOLhyphen"/>on ſpiritual weapons with faithful hands and awful eyes, there would more be done (in ſouls I meane borne of the ſpirit) incompa<g ref="char:EOLhyphen"/>rably, then by all the force of an arme of fleſh can ever be expected.</p>
+            <p>But I am afraid many Miniſters had ra<g ref="char:EOLhyphen"/>ther ſerve the State for viſible ſhpends, then Jeſus Chriſt upon Scripture pay; which is one maine cauſe I am perſwaded, though they ſhall ſurely anſwer for it that ſo uſe us) that we are ſo vile and contemptible among the people. But ſome objections are to be anſwered.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>1</label>
+               <hi>Obj.</hi> 1. As firſt, that this Nation is unca<g ref="char:EOLhyphen"/>pable of this way and work, there being ſo many in it whoſe eſtates are upon the matter made up of tythes, &amp;c. and therefore it is (at leaſt) unſeaſonable, though poſſibly taking away of tythes, as now payable, may be ef<g ref="char:EOLhyphen"/>fected in time to come.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label>
+               <hi>Sol.</hi> To which I anſwer, that the Scri<g ref="char:EOLhyphen"/>pture gives us many examples of ſuch as have
+<pb n="34" facs="tcp:109141:20"/>acted by halves about neceſſary works, upon reaſons of State, and grounds of policy, who have alwayes found at laſt it had been better for them to have walked exactly, and to have done to the utmoſt, what God would have had them to do. A grave wiſe counſel was led into a very ill practice, to wit, to Vote the Son of God to death upon a reaſon of policy <hi>John</hi> 11.47. <hi>onward in divers verſes.</hi> And beſides, we have had experience that ſome have let ſlip opportunities and nicks of time wherein they might have done great things, which they could never recover again. Now therefore while the ſpirits of the moſt of the godly in the Land are, and have beene upon this point of extirpation of this root of miſ<g ref="char:EOLhyphen"/>chief which lieth in the way of advancing Goſpel-reformation, paying of tythes I mean, as they are now required to be paid; it ſeems to me to be the duty of all, ſo farre as in them lieth, to promote this work before the door be fully ſhut, and God diſowne the preſent actors for want of faith, courage, diligence, and ſincerity. And although a ſentence of death ſeem to be paſſed already upon Chriſts cauſe in this particular, yet we ſhould not
+<pb n="35" facs="tcp:109141:20"/>flinch or be diſcouraged, as long as there is any the leaſt poſſibility of doing good. And laſtly, the procraſtinating of a work which God hath marked our to be now to be done, by the votes of his ſealed ones in all places, is a very great offence: As in <hi>Haggai's</hi> time the work of building of the Temple was put off under pretence the time was not come, <hi>Hag.</hi> 1.2. for which they are ſharply re<g ref="char:EOLhyphen"/>proved.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>2</label>
+               <hi>Obj.</hi> 2. But it may further be objected, that the greateſt, wiſeſt, and moſt learned in the Land cry ſhame of ſuch motions: and ſome that have beene forward this way have now learned more wit, and are as much againſt it as ever they were for it, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label>
+               <hi>Sol.</hi> True it is, Gods works, though in their ſeaſon, have ſeldome found the friend<g ref="char:EOLhyphen"/>ſhip of great ones. Truths of God (eſpeci<g ref="char:EOLhyphen"/>ally touching upon intereſts) are a continual offence to the great men of this world. <hi>Have any of the Rulers or Phariſees believed in him?</hi> was thought a good plea in Chriſts time. <hi>Not many wiſe, not many mighty, not many noble,</hi> in <hi>Pauls</hi> time. It is not long agone I taught out of this Scripture, <hi>But their Nobles put not
+<pb n="36" facs="tcp:109141:21"/>their neck to the work of their God.</hi> I confeſſe this is a great diſcouragement to ma<g ref="char:EOLhyphen"/>ny. Men of princely race, noble blood, great parts, are not uſually ſaved firſt. <hi>The Lord ſhal ſave THE TENTS</hi> of <hi>Judah</hi> firſt, <hi>Zach.</hi> 12.7. And therefore I am not utterly caſt down to ſee many great and learned ones with<g ref="char:EOLhyphen"/>drawing their hands from Gods work. But I humbly propound two things. Firſt, whe<g ref="char:EOLhyphen"/>ther Moral precepts are out of date? I hope none think ſo, that reſolve that Chriſt is Lord and King of his Church, and that Morals are of eternal verity. 'Tis true (I confeſſe) that neither this Law of Decimation or tythes, nor yet that of a Septimarian Sabbath are pri<g ref="char:EOLhyphen"/>marily Moral, but that they are ſecundarily and poſitively Moral I have formerly pro<g ref="char:EOLhyphen"/>ved for the one, and judge ſo of the other, though it be not my preſent work now to meddle with it. And I am perſwaded many that diſlike my way of handling this matter, are yet clear enough of the ſame judgement with me, <hi>viz.</hi> that tythes are the Lords por<g ref="char:EOLhyphen"/>tion, and due <hi>Jure Divino.</hi> Then ſecondly, I humbly demand, whether there can be greater evidence that this is a truth of God
+<pb n="37" facs="tcp:109141:21"/>(about removing what hindereth the practi<g ref="char:EOLhyphen"/>ſing of it, I meane) then have beene in our age: when the ſpirits of men are raiſed to o<g ref="char:EOLhyphen"/>bey Chriſt in all things, and <hi>to follow the Lamb whither ſoever he goeth.</hi> For although it be true, that much darkneſſe is among the godly par<g ref="char:EOLhyphen"/>ty about the latter part of my Theſis, that tythes are holy to the Lord Morally; yet for the catching and ſnatching of them which is now in uſe, and the compelling of people to give (not to <hi>Caeſar</hi> only, but) to Nobles, Lawyers, perſecutors of the power of godli<g ref="char:EOLhyphen"/>neſs, and I know to whom elſe, that which is Gods; I am perſwaded it is generally con<g ref="char:EOLhyphen"/>demned in the hearts and ſpirits of all, or the moſt that truly fear and love God.</p>
+            <p>And notwithſtanding, what by the perfi<g ref="char:EOLhyphen"/>dious and treacherous dealing of ſome parti<g ref="char:EOLhyphen"/>cular perſons that have beene employed a<g ref="char:EOLhyphen"/>bout great works in our dayes, who like <hi>Abſolon</hi> or <hi>Achitophel</hi> to <hi>David,</hi> or like <hi>She<g ref="char:EOLhyphen"/>maiah</hi> to <hi>Nehemiah,</hi> or <hi>Judas</hi> to Chriſt, have proved falſe; and what by diſcouragements of the honeſt party, and diſappointments of expectations in the loſſe of fair opportunities (which we in <hi>England</hi> are not ſtrangers unto); And what by over-acting of others before
+<pb n="38" facs="tcp:109141:22"/>diſpenſation to each particular gave the call; And what by conjunction with ſuch as have not beene reall hearted to the cauſe of God; this truth and ſome others ſeeme to be ſlaine with the two witneſſes for a time; yet I am perſwaded it will not be long before God will returne to his work that hath beene of late upon the wheele; and either make ſome to remember themſelves and do their firſt work, or lay them aſide (that peoples eyes may be removed from inſtruments to him<g ref="char:EOLhyphen"/>ſelf) and caſheere them that have caſheered themſelves out of their imployments for God and his people; and of ſtones raiſe up children to <hi>Abraham,</hi> and bringers to paſſe of his minde and will, for the ſetting up of Chriſtian worſhip, and throwing downe that carnal Miniſtery which is chiefly kept up by this irregular paying of tythes in this Nation, to ſuch as Gods people can ſee no mark of, or call from God upon.</p>
+            <p>The reſult of all is clearly this, that if great men will not, meaner men ſhall. Chriſt was borne of meane parentage, came out of <hi>Galilee,</hi> which could not but be a cloud over him, and a great trial to the faith of the
+<pb n="39" facs="tcp:109141:22"/>godly who were told that he was to come out of <hi>Bethlehem.</hi> If profeſſed Miniſters out of fear &amp; diſtruſt of God, will give an uncertain ſound, tradeſmen, fiſhermen, tentmakers, blew-apron-men ſhall ſpeak plainer; I ſay, if theſe (with the Scribes &amp; Phariſees) ſhould be ſilent, or enemies rather, the ſtones ſhall cry out: The little ſtone hewed out of the moun<g ref="char:EOLhyphen"/>tain without hands, will throw down all that belongs to the fourth beaſt in either ſhape or forme. We were wont to ſay in the times of the Prelacy, that Homilies and the Service-Book were the two legges of a dumb Mini<g ref="char:EOLhyphen"/>ſtery in <hi>England.</hi> Conſider I pray you, whe<g ref="char:EOLhyphen"/>ther the compelling of payment of Tythes now as they are paid, be not of great uſe for the continuance of a formal artificial outſide carnal Miniſtery in this Nation.</p>
+            <p>But methinks I hear ſome ſay, the Ordi<g ref="char:EOLhyphen"/>nance whereby Commiſſioners are appoint<g ref="char:EOLhyphen"/>ed for the approbation of publik Preachers, together with that whereby diverſe are ap<g ref="char:EOLhyphen"/>pointed for the ejection of ſcandalous and in<g ref="char:EOLhyphen"/>ſufficient Miniſters, being duly and carefully executed, will quickly make a riddance of many that are now imployed, and ſo the laſt
+<pb n="40" facs="tcp:109141:23"/>diſcourſe before-going will be uſeleſſe.</p>
+            <p>I acknowledge there is very much in thoſe two Ordinances, had we ſuch ſpirited men as thoſe actings call for which are in them required: And were that way the way of Chriſt ſo clearly to all, as perhaps it may be to ſome. But the declared diſſents and diſ<g ref="char:EOLhyphen"/>contents of a very religious party, do ſeeme to ſay ſomething is wanting. Beſides raine to lay corne that ſhould be cut downe, is out of ſeaſon: And Barbers that cut off the haire and let the head alone, that ſhould rather be ſo uſed, are inſufficient to be executioners. Conſider what I ſay.</p>
+            <p>There is further this one thing generally complained of (for <hi>I</hi> hear many things more then many that can do much more good then I can, if they would) that this tends very little in many places to the propagation of the Goſpel, or ſaving of ſouls. For (as a great man in the Miniſtery ſaid in publike, that he knew not which was the beſt death, poiſoning or ſtarving, ſo) ſay many, if ſuch vacant places were filled with godly experi<g ref="char:EOLhyphen"/>enced Saints apt to teach, 'twere ſomething; but ancient men are found ſcandalous, and ſo
+<pb n="41" facs="tcp:109141:23"/>ejected; and youths that will be any thing for a quiet life, are found to be made uſe of, or none at all: &amp; to my knowledge, Patrons and young men can agree about Livings, and the Commiſſioners for Approbation never hear of either the Patron or his Clerk. Bleſſed be God that hath ſo farre put it into the heart of thoſe that have power to prepare Chriſts way before him, as to do ſo much as hath beene done in this perverſe, froward, and unto<g ref="char:EOLhyphen"/>ward Nation: yet it is humbly conceived that notwithſtanding the multiplied ſenten<g ref="char:EOLhyphen"/>ces of death upon Church work; yet grace and mercy that are by dark diſpenſations uſually uſhered in, are wrapped up and a coming all this while. I wiſh none of my Brethren-would give way to envious grudg<g ref="char:EOLhyphen"/>ings againſt the perſons of ſuch as are now in power, but rather pray for them, which I am ſure, of they more ſtand in need of, then give cauſe of, envie. And for them my pray<g ref="char:EOLhyphen"/>er is, that they will caſt downe that foul Idol Diſcretion falſely ſo called: My meaning is, that they would not be too much given to fears and forecaſtings, as <hi>Jonah</hi> was, where<g ref="char:EOLhyphen"/>by he was put out of Gods way.</p>
+            <pb n="42" facs="tcp:109141:24"/>
+            <p>To make an end of my <hi>Appendix.</hi> My hope is, that the time is not far off in which truths will be better ſeene and agreed upon by and among the Saints. As for fond Familiſts, Quakers, Ranters, and ſuch kinde of poore ſeduced be witched ſouls, let them be look<g ref="char:EOLhyphen"/>ed upon with pitie as we are Saints, and dealt withall by Magiſtrates, as Gods Word doth warrant. For my part I know no odds (now) betweene the power of our Gover<g ref="char:EOLhyphen"/>nours, and the Kings of <hi>Iſrael</hi> and <hi>Judah.</hi> 'Tis true, their Kings were typical, and their Land Sacramental, but their power within Church and without, was the ſame that now it is, concerning both the Tables of the Mo<g ref="char:EOLhyphen"/>rall Law. But I finde not that they that ru<g ref="char:EOLhyphen"/>led well, did meddle with matters of Church cogniſance purely ſo, otherwiſe then to pro<g ref="char:EOLhyphen"/>tect the Prieſts and Levites and people of God, and puniſh evil-doers. Ye cannot be ignorant of the ground of that catching que<g ref="char:EOLhyphen"/>ſtion moved to our Lord Jeſus, <hi>Is it lawful to give tribute to Caeſar?</hi> If it had not beene Gods, it had ſcarce beene worth the anſwer<g ref="char:EOLhyphen"/>ing. If one ſhould aske of me, Is it lawfull to pay Tythes to my Lord or Maſter ſuch
+<pb n="43" facs="tcp:109141:24"/>a one? I have learned of my Lord and Ma<g ref="char:EOLhyphen"/>ſter to anſwer, <hi>Give — and unto God the things that are Gods.</hi> If Magiſtrates will not, or cannot, though they would, redeeme or reſcue the Lords portion out of the hands of the ſpoyler and ſacrilegious Tenant, and make way for the Saints obſervance of this Moral duty of giving God his due with more eaſe, and diſburden their conſciences that are vex<g ref="char:EOLhyphen"/>ed for not ſinning againſt it (which yet may be their ignorance); I ſay if this cannot be, yet (for I acknowledge many clouds of dark<g ref="char:EOLhyphen"/>neſſe are about this truth, which I hope the Sunne of righteouſneſſe will ſhortly diſpel): yet deride not, ſlight not my counſel, let the Sabbath day, Ordinances (whereof this is one, and holding the ſame Covenant of grace in extent to you and yours (which was no ceremony among Gods ancient people) is another) and union together of Saints by profeſſion in Churches, and of Churches alſo as ſtreets of one <hi>Jeruſalem,</hi> be carefully regarded; <hi>And peace ſhall be upon</hi> you, <hi>and mercy</hi> walking by this Rule (or Canon) <hi>and upon the Iſrael of God.</hi> Let God have his due in his way, though with ſome loſſe unto
+<pb n="44" facs="tcp:109141:25"/>thee, untill the time come of the fall of An<g ref="char:EOLhyphen"/>tichriſt in this particular alſo, the exacting I meane of Tythes by titles derived from him and his ſacrilegious adherents and ſucceſ<g ref="char:EOLhyphen"/>ſours. The Lord will ſhortly clear up this and other truths with the brightneſſe of his coming. <hi>Even ſo Amen, Come Lord Jeſus, come quickly.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:109141:25"/>
+            <head>
+               <hi>Courteous Reader,</hi> Theſe Books following are printed, and are to be ſold by <hi>Francis Eglesfield,</hi> at his Shop at the Marigold in <hi>Paul's</hi> Church<g ref="char:EOLhyphen"/>yard.</head>
+            <p>THe holy Court in five Tomes, written in French by <hi>N. Cauſsin,</hi> and done into Engliſh by Sir <hi>T. Hawkins,</hi> and others.</p>
+            <p>Moſt excellent Inſtructions for the keeping of Merchants Books and Accounts, by way of Debitor and Creditor, after the Italian manner, by <hi>John Carpenter</hi> Merchant. in Folio.</p>
+            <p>
+               <hi>Aelians</hi> Tacticks, or the Art of Imbattelling an <hi>Armie.</hi> in Folio.</p>
+            <p>Animadverſions of War, or the Military maga<g ref="char:EOLhyphen"/>zin, by <hi>Robert Ward</hi> Gentleman and Comman<g ref="char:EOLhyphen"/>ander. in Folio.</p>
+            <p>The Works of <hi>John Taylor</hi> the Water-Poet, collected into one Volume. in Folio.</p>
+            <p>
+               <hi>Heywood</hi> of Angels, in Folio.</p>
+            <p>
+               <hi>Pareus</hi> on the Revelation in Engliſh, in Folio.</p>
+            <p>Bp. <hi>Uſher,</hi> his Body of Divinity, in Folio.</p>
+            <p>
+               <hi>Decapala in Pſalmos, ſive Commentarius ex decem Linguis, antiqui Patribus, Rab. Hiſtoricis &amp; Poetis a</hi> Joanne Vicars <hi>Anglo,</hi> in Folio.</p>
+            <p>A faithfull Regiſter of the Tranſactions in Par<g ref="char:EOLhyphen"/>liament in the Third and Fourth yeares of the Raigne of our late Soveraigne lord King <hi>Charles,</hi> containing the ſeverall ſpeeches, Caſes, Arguments of Law, and grand Myſteries of the Kingdome then in Agitation, by T. F.</p>
+            <p>
+               <hi>Gulston in Rhetoricam Ariſtotelis, gr. lat.</hi> in 4to.</p>
+            <pb facs="tcp:109141:26"/>
+            <p>The Workes of that famous Mathematician, <hi>Ed<g ref="char:EOLhyphen"/>mund Gunter,</hi> ſometime Profeſſor of Aſtronomie in <hi>Greſham Colledge,</hi> newly printed with many corrections and additions, by <hi>Samuel Foster,</hi> late Profeſſor of <hi>Greſham Colledge,</hi> in 4to.</p>
+            <p>The Workes of Sir <hi>Rich. Baker,</hi> Viz. Medita<g ref="char:EOLhyphen"/>tions and Diſquiſitions on the Lords Prayer, in 4to. On the firſt Pſalm, in 4to. On the ſeven Peniten<g ref="char:EOLhyphen"/>tial Pſalmes, in 4to. His <hi>Cato Variegatus,</hi> or <hi>Cato's</hi> Moral Diſtcks tranſlated into Engliſh verſe, 4to. On the Creed, in 12. Motives for prayer upon the ſeven dayes of the Week, in 12. The Soliloquie of the Soul, in 12. An Apologie for Laymens wri<g ref="char:EOLhyphen"/>ting in Divinity, in 12.</p>
+            <p>Decimal Arithmetick, or the uſe of <hi>Napiers</hi> bones by <hi>William Barton,</hi> in 8vo:</p>
+            <p>The Sea-man's Secrets with the Tables <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> calculated, very uſefull for young Seamen, in <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>A Commentarie on the firſt Pſalm, by <hi>Phineas Fletcher,</hi> in 4to.</p>
+            <p>The Purple Iſland, being Poeticall Miſcelanies, by <hi>Phineas Fletcher,</hi> in 4to.</p>
+            <p>Joy in tribulation, or Conſolations for afflicted Conſciences, by <hi>Phine as Fletcher.</hi> in 12.</p>
+            <p>Five Sermons upon ſeveral occaſions preached at Court, by Dr. <hi>Preston,</hi> in 4to.</p>
+            <p>The Needles excellencie, a moſt uſefull Book of Cut-works, in 4to.</p>
+            <p>Light from heaven by Dr. <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> in 4to.</p>
+            <p>
+               <hi>Lydia's</hi> Converſion, or the Riches of Mercie, by Dr. <hi>Sibbs,</hi> in 12.</p>
+            <p>The whole works of that Eloquent Divine <hi>Thomas Plafere</hi> D.D. collected into one Vo<g ref="char:EOLhyphen"/>ume, in 8 vo,</p>
+            <pb facs="tcp:109141:26"/>
+            <p>The handmaid to Arithmetick refined, by <hi>Ni<g ref="char:EOLhyphen"/>colas Hunt,</hi> in 8vo.</p>
+            <p>The Art of Dialling by <hi>John Foſter,</hi> corrected and much enlarged by the Author himſelf, in 4to.</p>
+            <p>An Introduction to the right receiving of the Sacrament by <hi>W. Pemble,</hi> in 12,</p>
+            <p>The burthen and unburthening of a loaden con<g ref="char:EOLhyphen"/>ſcience, by <hi>Richard Kilby,</hi> in 12.</p>
+            <p>Spiritual food and Phyſick being a large Cate<g ref="char:EOLhyphen"/>chiſm compoſed by <hi>John Mico,</hi> in 8vo.</p>
+            <p>A Catechiſm by <hi>M. Nicolas,</hi> in 8vo.</p>
+            <p>
+               <hi>Corpus Chriſti,</hi> together with the demonſtrati<g ref="char:EOLhyphen"/>on of Antichriſt by <hi>John Gurney,</hi> in 12.</p>
+            <p>The Hiſtorie of <hi>Heliodorus</hi> in ten Books tran<g ref="char:EOLhyphen"/>ſlated by <hi>W. Liſle,</hi> in 4to.</p>
+            <p>
+               <hi>Æſop's</hi> Fables in Proſe and Verſe grammatical<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>anſlated, illuſtrated with Pictures, much enlar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d; exactly tranſlated out of the originall Greek, together with the Hiſtorie of his Life, in 12.</p>
+            <p>Divine Emblems &amp; Hieroglyphicks, by <hi>Francis Quarles,</hi> in 8vo.</p>
+            <p>The uſefullneſſe and excellency of Chriſt, by <hi>C. Jelinger,</hi> in 8vo.</p>
+            <p>The Office and Dutie of Conſtables, Church<g ref="char:EOLhyphen"/>wardens, and other Officers, excellently ſet forth by <hi>Nicholas Layer,</hi> Counſellor, in 8vo.</p>
+            <p>A Collection of Speeches in Parliament, by Sir <hi>Edward Deering,</hi> in 4to.</p>
+            <p>A Diſcourſe of proper Sacrifice, by Sir <hi>Edward Deering,</hi> in 4to.</p>
+            <p>
+               <hi>Poſſelii Syntaxis</hi> Greek, in 8vo.</p>
+            <p>Gods Summons to generall repentance; by <hi>John Harſnet,</hi> in 12,</p>
+            <pb facs="tcp:109141:27"/>
+            <p>
+               <hi>Juelli Apologia,</hi> in 8<hi rend="sup">vo</hi>. Greek and Latine; and alſo in Lat. in 12.</p>
+            <p>Divers Sermons upon ſeveral occaſions, by <hi>John Bond</hi> Maſter of the Savoy, in 4to.</p>
+            <p>The Doctrine of the Bible, in 8<hi rend="sup">vo</hi>.</p>
+            <p>Goſpel-converſion, by <hi>John Cotton</hi> of <hi>New-England,</hi> in 8<hi rend="sup">vo</hi>.</p>
+            <p>A Brief of the Bibles Hiſtorie in 12. by <hi>Enoch Clapham.</hi>
+            </p>
+            <p>Occaſional-Meditations, by <hi>Jos: Hall</hi> in 12.</p>
+            <p>A brief Expoſition on the Epiſtle to the <hi>Hebrews</hi> by <hi>David Dixon,</hi> in 8<hi rend="sup">vo</hi>.</p>
+            <p>Short handwriting, or the art of tachygraphie, by <hi>Thomas Shelton,</hi> in 8<hi rend="sup">vo</hi>.</p>
+            <p>
+               <hi>Wolleb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i</hi> Compendium <hi>Theolog.</hi> in 12.</p>
+            <p>Spare minutes, or <hi>Warwicks</hi> Meditations, in 12.</p>
+            <p>A Map of <hi>England,</hi> the moſt exact that is ex<g ref="char:EOLhyphen"/>tant, with the Kings of <hi>England</hi> about, done by <hi>W. Holar.</hi>
+            </p>
+            <p>
+               <hi>Lucian's</hi> Dialogues tranſlated into Engliſh. 4to.</p>
+            <p>
+               <hi>Holidai Philoſophia,</hi> in 4to.</p>
+            <p>
+               <hi>Veneti Hiſtoria,</hi> in 4to.</p>
+            <p>Death's Deliverance, and <hi>Eliah's</hi> fierie Cha<g ref="char:EOLhyphen"/>riot in two Sermons, by <hi>Alexander Groſs,</hi> in 8<hi rend="sup">vo</hi>.</p>
+            <p>A Manual of controverſies in Engl. by <hi>Oſiander,</hi> in 8<hi rend="sup">vo</hi>.</p>
+            <p>Munition againſt man's miſery, by <hi>R. Smith,</hi> in 8<hi rend="sup">v</hi>o.</p>
+            <p>Wit and Mirth, by <hi>John Taylor</hi> in 8<hi rend="sup">vo</hi>.</p>
+            <p>The Garden of ſpiritual Flowers, in 12</p>
+            <p>Bible Battels, by <hi>Rich: Bernard,</hi> in 12.</p>
+            <p>Monuments in the <hi>Saxon-tongue,</hi> written 700 years ago, ſhewing, that both the Old &amp; New
+<pb facs="tcp:109141:27"/>Teſtament, Lord's Prayer, and the Creed, were then uſed in the Mother tongue, collected by <hi>W. Liſle,</hi> in 4to.</p>
+            <p>The Excellencie of a gracious Spirit, together with <hi>Moſes</hi> Self-denial, by <hi>Jeremiah Burroughs,</hi> in 8<hi rend="sup">vo</hi>.</p>
+            <p>The power of the Chriſtian Magiſtrate in ſacred things, by <hi>Lewis de Moulin,</hi> Hiſtorie reader in <hi>Oxford.</hi> in 8.</p>
+            <p>Brief notes upon the whole book of <hi>Pſalmes,</hi> by <hi>George Abbot</hi> lately publiſhed in 4to.</p>
+            <p>
+               <hi>Amicus Reipublicae,</hi> the Commonwealth's friend, or an exact and ſpeedie courſe to ju<g ref="char:EOLhyphen"/>ſtice and right, and for preventing and determi<g ref="char:EOLhyphen"/>ning tedious Law-ſuits, by <hi>Io. March</hi> of <hi>Grayes-Inne.</hi>
+            </p>
+            <p>The Soul's poſſeſſion of Chriſt, by <hi>Thomas Hooker</hi> of <hi>New-England,</hi> in 12<hi rend="sup">o</hi>.</p>
+            <p>The Saints Dignitie and Dutie'<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ogether with the danger of Ignorance and hardneſs, by <hi>Thomas Hooker</hi> of <hi>New-England,</hi> in 12.</p>
+            <p>
+               <hi>Rhetorices Elementa,</hi> by <hi>William Dugard</hi> Ma<g ref="char:EOLhyphen"/>ſter of Merchant-Tailors School, <hi>London,</hi> in 8<hi rend="sub">vo</hi>.</p>
+            <p>Alſo, <hi>Retoricae Compendium Anglo</hi>-Lat., by <hi>Thomas Horn</hi> Maſter of <hi>Eaton</hi> School.</p>
+            <p>A piece of great Leaning, entituled, <hi>The height of Eloquence,</hi> written originally in Greek by <hi>Dio<g ref="char:EOLhyphen"/>nyſius Longinus,</hi> tranſlated into <hi>Engliſh</hi> by <hi>J. Hall</hi> 
+               <abbr>Eſquire.</abbr>
+            </p>
+            <p>The High Court of Juſtice, a Sermon preached before the Judges of aſſize <hi>Leiceſter,</hi> by <hi>Anthony Scattergood.</hi>
+            </p>
+            <p>
+               <hi>Moſes his Choyce,</hi> ſhewing the excellencie of
+<pb facs="tcp:109141:28"/>a gracious heart, &amp;c, by Mr. <hi>Jeremiah Burroughs.</hi>
+            </p>
+            <p>A glimps of Chriſt, diſcovering the ſweet in<g ref="char:EOLhyphen"/>comes of Chriſt to a ſpirituall heart, by <hi>Robert Dingly.</hi>
+            </p>
+            <p>The uſe of the Quadrant, fitted for daily pract<g ref="char:EOLhyphen"/>tice with lines, by <hi>Sam: Foſter</hi> late Profeſſor of Aſtronomie at <hi>Greſhan Colledge.</hi>
+            </p>
+            <p>
+               <hi>Reuſneri Symbola,</hi> exactly corrected, and the defect of the three Tables in former Editions re<g ref="char:EOLhyphen"/>ctified and made into one.</p>
+            <p>Letters of <hi>Mounſier de Balzack,</hi> 1.2.3, &amp; 4th parts, tranſlated out of the French into Engliſh, by Sir <hi>Richard Baker</hi> and others, now collected into one volume in 8vo.</p>
+            <p>None but Chriſt, the 9th Edition, by <hi>Clement Cotton,</hi> the author of the Engliſh Concordance, in 12.</p>
+            <p>A Treatiſe of Liberty and Neceſſity, wherein all controverſie concerning Predeſtination, Ele<g ref="char:EOLhyphen"/>ction, Free-will, Grace, Merits, Reprobation, &amp;c. is fully decided and cleared, by <hi>Thomas Hobbs,</hi> in 12.</p>
+            <p>The Covenant of Grace, diſcovering the Great worke of a Sinners Reconciliation to God, by <hi>John Cotton,</hi> late Miniſter at <hi>Boſton</hi> in <hi>New-England,</hi> in 8.</p>
+            <p>The Theater of Complements, or the Art of E<g ref="char:EOLhyphen"/>loquence and moſt refined way of ſpeaking, by <hi>Baſilius Muſophilus,</hi> in 12,</p>
+            <p>Caſes of Conſcience, practically reſolved, by <hi>Joſeph Hall,</hi> B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. of <hi>Norwich,</hi> in 12.</p>
+            <p>The way to Heaven diſcovered, and the ſtum<g ref="char:EOLhyphen"/>bling blocks caſt therein by the World, the Fleſh,
+<pb facs="tcp:109141:28"/>and the Divel, removed; the ſecond Edition much enlarged by <hi>Robert Purnell,</hi> in 8.</p>
+            <p>Satan at Noon, being an impartiall relation of the proceedings of the Commiſſioners of the Coun<g ref="char:EOLhyphen"/>ty of <hi>Berks</hi> againſt <hi>John Pordage,</hi> Miniſter of <hi>Bradfield</hi> in the ſaid County, publiſhed by <hi>Chri<g ref="char:EOLhyphen"/>ſtopher Fowler,</hi> in 4to.</p>
+            <p>The Crums of Comfort, a prayer-book, in 24.</p>
+            <p>The Pſalms of David in Meetre, to be ſung in u<g ref="char:EOLhyphen"/>ſuall &amp; knowne tunes, by <hi>Will. Barton,</hi> M. of Arts.</p>
+            <p>The mortified Chriſtian, ſhewing the nature, ſignes, neceſſity and Difficulty of true Mortificati<g ref="char:EOLhyphen"/>on with a diſcoverie of ſincerity, by that faithfull Miniſter of Chriſt, <hi>Chriſtopher Love.</hi> in 8.</p>
+            <p>The Scotch deſigne diſcovered, Relating their dangerous Attempts lately practiſed againſt the Engliſh Nation, with the ſad conſequences of the ſame, in 4to.</p>
+            <p>Poems Humane and Divine, by <hi>Robert Her<g ref="char:EOLhyphen"/>rick</hi> 
+               <abbr>Eſquire,</abbr> in 8,</p>
+            <p>The Hiſtorie of Bees, by <hi>Charles Butler,</hi> in 4to.</p>
+            <p>
+               <hi>Lucius Florus</hi> in Latine, in 24.</p>
+            <p>
+               <hi>C. Saluſtius</hi> in Latine, in 24.</p>
+            <p>
+               <hi>Phraſeologia puerilis,</hi> or ſelected Latine and Engliſh Phraſes, very uſefull for young Latiniſts, to prevent Barbariſmes and bald Latine-making: and to initiate them in ſpeaking and writing ele<g ref="char:EOLhyphen"/>gantly in both Languages, the third Edition, Me<g ref="char:EOLhyphen"/>thodically digeſted and very much enlarged by the Authour <hi>John Clark,</hi> Bachelour in Divinity, ſometimes Maſter of the Free-ſchool in <hi>Lincolne.</hi>
+            </p>
+            <p>
+               <hi>Formulae Oratoriae in uſum Scholarum con<g ref="char:EOLhyphen"/>cinnatae, cum praxin &amp; uſu earundem in Epiſto<g ref="char:EOLhyphen"/>lis, Thematibus, Declamationibm conterendis.
+<pb facs="tcp:109141:29" rendition="simple:additions"/>Acceſſit Dux Poeticus, cum ſuis aliquot poema<g ref="char:EOLhyphen"/>tiolis, Editio ſeptima, Noviſſimâ Autorts Limâ expolita, per</hi> Joh. Clarke, B. D. and ſometime Maſter of the Free-School in <hi>Lincoln.</hi>
+            </p>
+            <p>The Parable of the wedding Supper explained wherein the offer of Salvation both to Jewes and Gentiles is pithily and plainly applyed, the ſecond Edition: whereunto is added a diſcourſe for the payment of Tithes; by <hi>Thomas Larckham</hi> M. A. ſometime of Trinity Colledge in Cambridge.</p>
+            <p>The Rock of Ages, or a Treatiſe of the eighteen Attributes of God; twelve of them communicable, and ſix incommunicable, being the ſubſtance of Sundry Lectures, by <hi>Thomas Larkham</hi> M. A ſomtime of Trinity Colledge in <hi>Cambridge.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:109141:29"/>
+         </div>
+      </back>
+   </text>
+</TEI>
